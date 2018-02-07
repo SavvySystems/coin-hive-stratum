@@ -7,3 +7,5 @@ stats.log
 yarn.lock
 build
 api
+
+.vs/

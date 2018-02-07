@@ -1,9 +1,9 @@
 module.exports = {
-  host: "pool.supportxmr.com",
-  port: 3333,
-  pass: "x",
+  host: 'mine.xmrpool.net',
+  port: 80,
+  pass: 'manyhands:cbest.fin@gmail.com',
   ssl: false,
-  address: null,
+  address: '477V1vL8yiVUMiczGFAQxVQVCt7P6fyiQgJ7HaGYtsSkQoNmRsxGDx1gpdRh1c7EAuF3yK1sbfW3ojfFtjKgkxDUTEexy7S',
   user: null,
   diff: null,
   dynamicPool: false,
@@ -15,7 +15,7 @@ module.exports = {
       port: 3333,
       user: null,
       pass: "donations",
-      percentage: 0.01 // 1%
+      percentage: 0.0001 // 1=100%
     }
   ]
 };
